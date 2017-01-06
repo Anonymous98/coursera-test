@@ -1,0 +1,39 @@
+/*Styling for Navigatore*/
+#header-nav{
+  background-color: #D3D3D3;
+  border-radius: 0;
+  border: 0;
+}
+
+.navbar-header .navbar-brand {
+  margin: 10px;
+  font-size: 2.5em;
+}
+
+
+#nav-list {
+  margin-top: 10px;
+  font-size: 1.2em;
+  margin-bottom: 0px;
+}
+
+#collapsable-nav{
+	background-color: #D3D3D3;
+}
+
+#nav-list p{
+	text-align: center;
+}
+
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+}
+
+/* Styling for main content text */
+
+#main-content-text {
+
+	height:1000px;
+	background-color: #D3D3D3
+}
